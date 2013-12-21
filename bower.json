@@ -1,0 +1,20 @@
+{
+  "name": "kinetic",
+  "version": "0.0.0",
+  "authors": [
+    "Chandra Veera"
+  ],
+  "description": "JavaScript Kinetic Scrolling",
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "~2.1.3"
+  }
+}

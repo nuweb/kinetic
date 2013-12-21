@@ -1,0 +1,19 @@
+{
+  "name": "kinetic",
+  "version": "0.0.0",
+  "description": "JavaScript Kinetic scrolling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-nuweb:nuweb/kinetic.git"
+  },
+  "dependencies": {
+    "express": "*",
+    "connect": "*"
+  },
+  "author": "Chandra Veera",
+  "license": "BSD"
+}
